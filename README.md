@@ -1,5 +1,6 @@
 # CONTRA2020
-Initial code for "CONTRA: Defending against Poisoning Attacks in Federated Learning" published in ESORICS 2021
+Code for "CONTRA: Defending against Poisoning Attacks in Federated Learning" published in ESORICS 2021.
+
 Set configuration parameters in utils/mnist_params.yaml for MNIST or utils/cifar_params.yaml for CIFAR-10 experiments
 
 * Run the code for MNIST using the following:
