@@ -6,7 +6,8 @@ Set configuration parameters in utils/mnist_params.yaml for MNIST or utils/cifar
 python main.py --params utils/mnist_params.yaml
 
 Citation:
-If you find the work useful for your research, please cite:
+*If you find the work useful for your research, please cite:
+
 @inproceedings{awan2021contra,
   title={Contra: Defending against poisoning attacks in federated learning},
   author={Awan, Sana and Luo, Bo and Li, Fengjun},
