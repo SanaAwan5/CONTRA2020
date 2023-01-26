@@ -5,7 +5,7 @@ Set configuration parameters in utils/mnist_params.yaml for MNIST or utils/cifar
 * Run the code for MNIST using the following:
 python main.py --params utils/mnist_params.yaml
 
-# References:
+References:
 * https://github.com/DistributedML/FoolsGold
 * https://github.com/AI-secure/DBA
 
