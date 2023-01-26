@@ -24,8 +24,9 @@ import torch.nn.functional as F
 
 from utils.Data_Prepper import Data_Prepper
 from utils.arguments import mnist_args, cifar_cnn_args, mr_args, sst_args
-from utils.utils import compute_grad_update, add_update_to_model, add_gradient_updates,\
-	flatten, unflatten, train_model, evaluate, cosine_similarity, mask_grad_update_by_order
+#from utils.utils import compute_grad_update, add_update_to_model, add_gradient_updates,\
+	#flatten, unflatten, train_model, evaluate, cosine_similarity, mask_grad_update_by_order
+from utils.utils import mask_grad_update_by_magnitude #for sparsification
 
 parser = argparse.ArgumentParser(description='Process which dataset to run')
 parser.add_argument('-d', '--dataset', help='Dataset name', type=str, required=True)
