@@ -8,7 +8,7 @@ python main.py --params utils/mnist_params.yaml
 Citation:
 * If you find the work useful for your research, please cite:
 
-'''
+```
 @inproceedings{awan2021contra,
   title={Contra: Defending against poisoning attacks in federated learning},
   author={Awan, Sana and Luo, Bo and Li, Fengjun},
@@ -17,7 +17,7 @@ Citation:
   year={2021},
   organization={Springer}
 }
-'''
+```
 
 References:
 * https://github.com/DistributedML/FoolsGold
