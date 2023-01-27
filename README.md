@@ -6,6 +6,7 @@ Code for "CONTRA: Defending against Poisoning Attacks in Federated Learning" pub
 * Run the code for MNIST using the following:
 ```
 python main.py --params utils/mnist_params.yaml
+
 ```
 
 Citation:
