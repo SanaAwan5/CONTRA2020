@@ -8,6 +8,11 @@ Code for "CONTRA: Defending against Poisoning Attacks in Federated Learning" pub
 python main.py --params utils/mnist_params.yaml
 
 ```
+* To run RFL.py, do:
+
+```
+python RFL.py -d mnist -N 10 -A 2 -cuda
+```
 
 Citation:
 * If you find the work useful for your research, please cite:
