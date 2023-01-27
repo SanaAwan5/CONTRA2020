@@ -3,7 +3,7 @@ Code for "CONTRA: Defending against Poisoning Attacks in Federated Learning" pub
 
 * Set configuration parameters in utils/mnist_params.yaml for MNIST or utils/cifar_params.yaml for CIFAR-10 experiments
 
-* Run the code for MNIST using the following:
+* For example, run the code for MNIST using the following:
 ```
 python main.py --params utils/mnist_params.yaml
 
