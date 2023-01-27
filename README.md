@@ -31,5 +31,6 @@ Citation:
 References:
 * https://github.com/DistributedML/FoolsGold
 * https://github.com/AI-secure/DBA
+* https://github.com/XinyiYS/Robust-and-Fair-Federated-Learning
 
 
